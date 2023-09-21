@@ -4,7 +4,7 @@ const Home = () => {
     return (
         <div className='flex  '>
             <div className='bg-slate-400 max-sm:hidden'>
-                <ul tabIndex={0} className="menu menu-sm bg-slate-400 dropdown-content mt-3 z-[1] p-2 shadow h-96 w-52">
+                <ul tabIndex={0} className="menu menu-sm bg-slate-400 dropdown-content mt-3 z-[1] p-2 shadow h-[695px]  w-[206px]">
                     <li>Sidebar</li>
                     <li>
                         <a className='bg-white rounded-none'>Item 1</a>
